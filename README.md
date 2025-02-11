@@ -8,3 +8,4 @@ The languages I want to learn are Python, R
 Along with this, I want to learn cloud technology and move out to be a consultant
 Hopefully AI consultant, Mainly working on problem solving will help
 Adding more points to this will be my learnings on cloud certificaions
+I would like to complete the certification of Azure cloud consultant certification
