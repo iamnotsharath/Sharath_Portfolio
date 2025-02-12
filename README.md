@@ -10,3 +10,4 @@ Hopefully AI consultant, Mainly working on problem solving will help
 Adding more points to this will be my learnings on cloud certificaions
 I would like to complete the certification of Azure cloud consultant certification
 AZ-900 along with the cloud practitioner certification
+Adding to that would be working on projects in machine learning and databases
