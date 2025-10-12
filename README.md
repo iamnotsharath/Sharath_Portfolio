@@ -2,6 +2,7 @@
 Example Business Analytics Portfolio
 Hello, This is me sharath Kalappa
 An operations analyst working in Pharmacy Central Fill
+I am currently working in Pharmacy automation
 I'll use this portfolio to showcase my data and business projects
 I love building impactful projects and sharing knowledge with the community.
 I've already uploaded some projects on my profile
